@@ -37,6 +37,7 @@ Change your Default Shell
 > $chsh -s /bin/zsh
 
 for this command to be effective you need to restart your system.
+
 ###Oh My Zsh Terminal
 
 After restarting your terminal will look like this :
