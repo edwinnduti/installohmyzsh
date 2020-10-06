@@ -38,7 +38,7 @@ Change your Default Shell
 
 for this command to be effective you need to restart your system.
 
-###Oh My Zsh Terminal
+### Oh My Zsh Terminal
 
 After restarting your terminal will look like this :
 
